@@ -1,0 +1,3 @@
+Socket.io is a popular JavaScript library that allows us to create real-time, bi-directional communication between web browsers and a Node.js server. It is a highly performant and reliable library optimized to process a large volume of data with minimal delay. 
+
+https://dev.to/novu/building-a-chat-app-with-socketio-and-react-2edj
